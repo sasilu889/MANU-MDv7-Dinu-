@@ -43,10 +43,10 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.Manu-MD&VHVSib4A#Pc7ulwd2aIt1CPRXZ2HCEZQG0UuOh13t0ZgZfDnbfQY === undefined ? '' : process.env.Manu-MD&VHVSib4A#Pc7ulwd2aIt1CPRXZ2HCEZQG0UuOh13t0ZgZfDnbfQY,
+SESSION_ID:Manu-MD&oK0SgSrb#MFLCwLlm3mLm7iUZzSddGE2wKFT4dXWyXGV7S0AlYdY process.envManu-MD&oK0SgSrb#MFLCwLlm3mLm7iUZzSddGE2wKFT4dXWyXGV7S0AlYdY === undefined ? '' : process.env.Manu-MD&oK0SgSrb#MFLCwLlm3mLm7iUZzSddGE2wKFT4dXWyXGV7S0AlYdY,
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
-SUDO: process.env.SUDO === undefined ? '94742274855' : process.env.SUDO,
+SUDO: process.env.SUDO === undefined ? '94777489587' : process.env.SUDO,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
 MODE: process.env.MODE === undefined ?"public" : process.env.MODE,
 AUTO_VOICE: process.env.AUTO_VOICE === undefined ? "false" : process.env.AUTO_VOICE,
