@@ -9,7 +9,7 @@
         "SESSION_ID": {
             "description": "Manu-MD&JWkwAAKT#jFxSmgcBqdQ1v87UBwdEWpGcWUtVhhO-Jn-BGnAK1x8",
             "required": true,
-            "value": "put session id here"
+            "value": "Manu-MD&JWkwAAKT#jFxSmgcBqdQ1v87UBwdEWpGcWUtVhhO-Jn-BGnAK1x8"
         }
     },
     "buildpacks": [
